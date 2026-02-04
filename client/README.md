@@ -1,5 +1,6 @@
 
 https://github.com/user-attachments/assets/c051f496-df4f-469c-b6fe-0b060e81d748
+
 TikTok Ads Creative Flow (Frontend Assignment)
 
 This project is a small frontend application that simulates a TikTok Ads creative setup flow.
